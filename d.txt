@@ -1,0 +1,2 @@
+This is file d.txt
+used to recover when b.txt is not found
